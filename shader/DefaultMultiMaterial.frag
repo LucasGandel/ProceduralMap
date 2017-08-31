@@ -1,4 +1,4 @@
-#version 130
+#version 400
 
 //Input attributes
 in vec4 v_PositionLC; //Vertex position in local object coordinates
